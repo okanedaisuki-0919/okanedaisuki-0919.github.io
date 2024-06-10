@@ -1,0 +1,26 @@
+.左{
+	
+	width:300px;
+	
+	
+}
+
+.中央{
+	width:300px;
+
+	
+}
+
+.横並び {
+	display: flex;
+	gap: 20px;
+	margin:0px 0px 0px 125px;
+}
+
+.タイトル{
+ margin: 0px 0px -10px 0px;
+}
+
+.右{
+	width:300px;
+}
